@@ -10,7 +10,7 @@ Esslingen am Neckar, Germany
 
 ## About
 
-I hold an M.Sc. in Computing from the University of Split (FESB) and am currently pursuing a second Master's degree in Automotive Systems IT at Hochschule Esslingen, Germany.
+I hold an M.Sc. in Computing from the University of Split (FESB), Croatia, and am currently pursuing a second Master's degree in Automotive Systems IT at Hochschule Esslingen, Germany.
 
 My work focuses on low-level firmware, peripheral driver development, hardware-software interaction, and automotive embedded systems. I am particularly interested in deterministic system behaviour, firmware reliability, and software architecture.
 
